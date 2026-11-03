@@ -1,4 +1,6 @@
 # Better Pod
+[![Release](https://img.shields.io/github/release/bruttazz/better-pod.svg?style=flat-square)](https://github.com/bruttazz/better-pod/releases/latest)
+
 
 <img width="200px" src="./custom-assets/battery-progress-1.jpg">
 
