@@ -1,6 +1,6 @@
 # Better Pod
 
-<img width="200px" src="./custom-assets/20261102_145859.jpg">
+<img width="200px" src="./custom-assets/battery-progress-1.jpg">
 
 
 > Custom UI overwrite to **FiiO Snowsky: Echo Mini firmware** updater.
